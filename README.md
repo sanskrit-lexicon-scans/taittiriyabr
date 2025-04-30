@@ -24,12 +24,12 @@ Kāṇḍa, prapāṭhaka, anuvāka, śloka
 https://sanskrit-lexicon-scans.github.io/taittiriyas/app1/?N,N,N,N
 
 ## app0
-Provides access to pages from based on one number: VNNN (volume, external page).
-VNNN is in range
-* 1008 to 1368 (volume 1, pdf pages 8 to 368) kaṇḍa 1,2
+Provides access to pages from based on one number: VNNNN (volume, external page).
+VNNNN is in range
+* 10008 to 10368 (volume 1, pdf pages 8 to 368) kaṇḍa 1,2
   * Note: app0 ignores volume 2
-* 3008 to 3300 (volume 3, pdf pages 8 to 300) kaṇḍa 3
+* 30008 to 30300 (volume 3, pdf pages 8 to 300) kaṇḍa 3
 
-https://sanskrit-lexicon-scans.github.io/taittiriyabr/app0/?VNNN
+https://sanskrit-lexicon-scans.github.io/taittiriyabr/app0/?VNNNN
 
 
