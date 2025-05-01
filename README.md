@@ -21,7 +21,7 @@ title: The Taittiriya Brahmana of the Black Yajur Veda
 Provides access to pages based on 4 numbers:
 Kāṇḍa, prapāṭhaka, anuvāka, śloka
 
-https://sanskrit-lexicon-scans.github.io/taittiriyas/app1/?N,N,N,N
+https://sanskrit-lexicon-scans.github.io/taittiriyabr/app1/?N,N,N,N
 
 ## app0
 Provides access to pages from based on one number: VNNNN (volume, external page).
